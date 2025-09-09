@@ -29,7 +29,7 @@
   </div>
 
   <script>
-    const formURL = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/formResponse";
+    const formURL = "https://docs.google.com/forms/d/e/1FAIpQLSd5XPqtRoRSxd3hfv2P0Lf-ePnYxdvrW3nA_VEj9pSAFgd_Og/viewform?usp=dialog";
     const entry = {
       unit: "entry.595247252",
       vehicle: "eentry.510665074",
